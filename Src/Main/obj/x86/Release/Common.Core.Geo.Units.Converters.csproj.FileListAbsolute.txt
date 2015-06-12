@@ -1,0 +1,4 @@
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.Units.Converters\Src\Main\obj\x86\Release\Common.Core.Geo.Units.Converters.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units.Converters\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.Units.Converters.dll.config
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units.Converters\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.Units.Converters.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.Units.Converters\Src\Main\obj\x86\Release\Tamu.GeoInnovation.Common.Core.Geo.Units.Converters.dll
