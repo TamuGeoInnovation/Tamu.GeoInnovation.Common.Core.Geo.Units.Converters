@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core.Geo.Units.Converters.Dev", "Common.Core.Geo.Units.Converters.Dev.csproj", "{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core.Geo.Geometries.Dev", "..\..\..\Common.Core.Geo.Geometries\Src\Main\Common.Core.Geo.Geometries.Dev.csproj", "{E8164C90-2753-46F3-937A-653039318563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core.Geo.Units.Dev", "..\..\..\Common.Core.Geo.Units\Src\Main\Common.Core.Geo.Units.Dev.csproj", "{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Debug|x86.ActiveCfg = Debug|x86
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Debug|x86.Build.0 = Debug|x86
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Release|x86.ActiveCfg = Release|x86
+		{5CB3098F-54E7-427E-95CA-4D0EBBA9E2AB}.Release|x86.Build.0 = Release|x86
+		{E8164C90-2753-46F3-937A-653039318563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8164C90-2753-46F3-937A-653039318563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8164C90-2753-46F3-937A-653039318563}.Debug|x86.ActiveCfg = Debug|x86
+		{E8164C90-2753-46F3-937A-653039318563}.Debug|x86.Build.0 = Debug|x86
+		{E8164C90-2753-46F3-937A-653039318563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8164C90-2753-46F3-937A-653039318563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8164C90-2753-46F3-937A-653039318563}.Release|x86.ActiveCfg = Release|x86
+		{E8164C90-2753-46F3-937A-653039318563}.Release|x86.Build.0 = Release|x86
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Debug|x86.ActiveCfg = Debug|x86
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Debug|x86.Build.0 = Debug|x86
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Release|x86.ActiveCfg = Release|x86
+		{5F42520E-2DDA-4B4A-AFE5-5F5E00E33D47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
