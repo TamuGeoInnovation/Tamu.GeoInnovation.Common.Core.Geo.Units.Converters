@@ -1,13 +1,12 @@
 using System;
 using USC.GISResearchLab.Common.GeographicObjects.Coordinates;
-using USC.GISResearchLab.Common.Geometries.BoundingBoxes;
 
 namespace USC.GISResearchLab.Common.Geographics.Units
 {
     public class UnitConverter
     {
 
-        
+
         public static double ConvertArea(LinearUnitTypes inputUnits, LinearUnitTypes outputUnits, double area)
         {
             double ret = -1;
@@ -86,7 +85,7 @@ namespace USC.GISResearchLab.Common.Geographics.Units
             }
             return ret;
         }
-       
+
         public static double DMSToDD(double degrees, double minutes, double seconds)
         {
             return new DegreesMinutesSeconds(Convert.ToInt32(degrees), Convert.ToInt32(minutes), seconds).ToDecimalDegrees();
